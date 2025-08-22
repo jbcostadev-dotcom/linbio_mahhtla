@@ -78,4 +78,3 @@ No arquivo `style.css`, você pode modificar:
 
 ---
 
-**Desenvolvido com ❤️ para Gustavo Zollim**
