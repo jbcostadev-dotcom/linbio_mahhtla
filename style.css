@@ -22,6 +22,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
+    top: -10px;
 }
 
 .header {
@@ -54,6 +56,9 @@ body {
     margin: 0 auto;
     display: block;
     text-align: center;
+    position: relative;
+    top: -60px;
+    z-index: 2;
 }
 
 
